@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+}
+.button-envio {
+  background-color: green;
+}
+.button-apagar {
+  background-color: red;
+}
